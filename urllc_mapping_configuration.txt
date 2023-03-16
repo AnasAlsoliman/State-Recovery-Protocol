@@ -1,0 +1,20 @@
+{
+    "1": {
+    	"node_type": "bs",
+    	"my_id": 1,
+    	"my_role": "master",
+    	"support_node_id": 3
+    },
+    "2": {
+    	"node_type": "ue",
+    	"my_id": 2,
+    	"my_role": "master",
+    	"support_node_id": 3
+    },
+    "3": {
+    	"node_type": "ue",
+    	"my_id": 3,
+    	"my_role": "support",
+    	"master_node_id": 2
+    }
+}
